@@ -16,3 +16,5 @@ X = np.array([
 Y = np.array([2, 14, -13, 5, 12, 4, -19])
 Z = np.array([3,0.5,-6])
 print(vec_linear_mse(X, Y, Z))
+W = np.array([0,0,0])
+print(vec_linear_mse(X, Y, W))
