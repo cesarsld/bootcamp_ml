@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 from pred import predict_
 
 def vec_gradient(x, y, theta):
